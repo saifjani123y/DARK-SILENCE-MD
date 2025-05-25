@@ -31,8 +31,24 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~bdIUwDzZ#SYIvosx7qvTrjuKea6Nq-FztKfdXdFamARnjypDQjTI",
+    CAPTION: process.env.CAPTION || "*┏━━━━━━━━━━━━━━*
+*┃DARK-SILENCE-MD SESSION IS*
+*┃SUCCESSFULLY*
+*┃CONNECTED ✅🔥*
+*┗━━━━━━━━━━━━━━━*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❶ || Creator = SILENT LOVER⁴³²👨🏻‍💻*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❸ || Owner =* https://wa.me/+923096287432
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❹ || Repo =* https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❺ || You Tube =* https://youtube.com/@silentlover432-king?si=UkBkCZswRFaWHOZl
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*💙POWERD BY SILENTLOVER432💛*",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
